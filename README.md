@@ -20,7 +20,7 @@ The goals / steps of this project are the following:
 [thresholds]: ./doc_imgs/thresholds.png "After Thresholds applied"
 [histogram]: ./doc_imgs/histogram.png "Histogram"
 [sliding_windows]: ./doc_imgs/sliding_windows.png "Sliding Windows"
-[rcurve]: ./doc_imgs/rcurve.png "R Curve"
+[rcurve]: ./doc_imgs/rcurve.PNG "R Curve"
 [output]: ./doc_imgs/output.png "Output"
 
 
